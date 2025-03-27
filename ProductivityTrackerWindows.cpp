@@ -161,7 +161,7 @@ int main() {
 
 
     while (userSelect != 0) {
-
+    userTotal = 0;
 
 
         for (int i = 0; i <= (arrayMax - 1);i++) {
